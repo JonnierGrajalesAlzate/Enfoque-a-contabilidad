@@ -1,0 +1,10 @@
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Parcial2\bin\Debug\Parcial2.exe.config
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Parcial2\bin\Debug\Parcial2.exe
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Parcial2\bin\Debug\Parcial2.pdb
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Parcial2\obj\Debug\Parcial2.csproj.AssemblyReference.cache
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Parcial2\obj\Debug\Parcial2.parcial2Form.resources
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Parcial2\obj\Debug\Parcial2.Properties.Resources.resources
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Parcial2\obj\Debug\Parcial2.csproj.GenerateResource.cache
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Parcial2\obj\Debug\Parcial2.exe
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Parcial2\obj\Debug\Parcial2.pdb

@@ -1,0 +1,30 @@
+D:\hprog1\appQuiz4\appQuiz4\bin\Debug\appQuiz4.exe.config
+D:\hprog1\appQuiz4\appQuiz4\bin\Debug\appQuiz4.exe
+D:\hprog1\appQuiz4\appQuiz4\bin\Debug\appQuiz4.pdb
+D:\hprog1\appQuiz4\appQuiz4\obj\Debug\appQuiz4.csproj.AssemblyReference.cache
+D:\hprog1\appQuiz4\appQuiz4\obj\Debug\appQuiz4.Properties.Resources.resources
+D:\hprog1\appQuiz4\appQuiz4\obj\Debug\appQuiz4.csproj.GenerateResource.cache
+D:\hprog1\appQuiz4\appQuiz4\obj\Debug\appQuiz4.csproj.CoreCompileInputs.cache
+D:\hprog1\appQuiz4\appQuiz4\obj\Debug\appQuiz4.exe
+D:\hprog1\appQuiz4\appQuiz4\obj\Debug\appQuiz4.pdb
+D:\hprog1\appQuiz4\appQuiz4\obj\Debug\appQuiz4.frmConcesionaria.resources
+C:\Users\Usuario\Downloads\appQuiz4\appQuiz4\obj\Debug\appQuiz4.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\appQuiz4\appQuiz4\obj\Debug\appQuiz4.frmConcesionaria.resources
+C:\Users\Usuario\Downloads\appQuiz4\appQuiz4\obj\Debug\appQuiz4.Properties.Resources.resources
+C:\Users\Usuario\Downloads\appQuiz4\appQuiz4\obj\Debug\appQuiz4.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\appQuiz4\appQuiz4\obj\Debug\appQuiz4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\appQuiz4\appQuiz4\obj\Debug\appQuiz4.exe
+C:\Users\Usuario\Downloads\appQuiz4\appQuiz4\obj\Debug\appQuiz4.pdb
+C:\Users\Usuario\Downloads\appQuiz4\appQuiz4\bin\Debug\appQuiz4.exe.config
+C:\Users\Usuario\Downloads\appQuiz4\appQuiz4\bin\Debug\appQuiz4.exe
+C:\Users\Usuario\Downloads\appQuiz4\appQuiz4\bin\Debug\appQuiz4.pdb
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\appQuiz4\appQuiz4\bin\Debug\appQuiz4.exe.config
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\appQuiz4\appQuiz4\bin\Debug\appQuiz4.exe
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\appQuiz4\appQuiz4\bin\Debug\appQuiz4.pdb
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\appQuiz4\appQuiz4\obj\Debug\appQuiz4.csproj.AssemblyReference.cache
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\appQuiz4\appQuiz4\obj\Debug\appQuiz4.frmConcesionaria.resources
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\appQuiz4\appQuiz4\obj\Debug\appQuiz4.Properties.Resources.resources
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\appQuiz4\appQuiz4\obj\Debug\appQuiz4.csproj.GenerateResource.cache
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\appQuiz4\appQuiz4\obj\Debug\appQuiz4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\appQuiz4\appQuiz4\obj\Debug\appQuiz4.exe
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\appQuiz4\appQuiz4\obj\Debug\appQuiz4.pdb

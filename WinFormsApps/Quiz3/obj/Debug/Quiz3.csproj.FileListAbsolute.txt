@@ -1,0 +1,20 @@
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\Quiz3\bin\Debug\Quiz3.exe.config
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\Quiz3\bin\Debug\Quiz3.exe
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\Quiz3\bin\Debug\Quiz3.pdb
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\Quiz3\obj\Debug\Quiz3.csproj.AssemblyReference.cache
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\Quiz3\obj\Debug\Quiz3.Quiz3Form.resources
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\Quiz3\obj\Debug\Quiz3.Properties.Resources.resources
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\Quiz3\obj\Debug\Quiz3.csproj.GenerateResource.cache
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\Quiz3\obj\Debug\Quiz3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\Quiz3\obj\Debug\Quiz3.exe
+C:\Users\Usuario1\Desktop\HerramientasProgramacion\Windows Forms\Quiz3\obj\Debug\Quiz3.pdb
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Quiz3\bin\Debug\Quiz3.exe.config
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Quiz3\bin\Debug\Quiz3.exe
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Quiz3\bin\Debug\Quiz3.pdb
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Quiz3\obj\Debug\Quiz3.csproj.AssemblyReference.cache
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Quiz3\obj\Debug\Quiz3.Quiz3Form.resources
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Quiz3\obj\Debug\Quiz3.Properties.Resources.resources
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Quiz3\obj\Debug\Quiz3.csproj.GenerateResource.cache
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Quiz3\obj\Debug\Quiz3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Quiz3\obj\Debug\Quiz3.exe
+C:\Users\Usuario1\Desktop\HerramProgramacion\WinFormsApps\Quiz3\obj\Debug\Quiz3.pdb
